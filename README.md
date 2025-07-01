@@ -1,4 +1,4 @@
-*Typing Speed Test*
+## Typing Speed Test
 
 A clean and responsive Typing Speed Test web app that helps users improve their typing speed and accuracy. Built with vanilla HTML, CSS, and JavaScript — no libraries or frameworks.
 
@@ -12,10 +12,10 @@ A clean and responsive Typing Speed Test web app that helps users improve their 
 -  Responsive UI for desktop and mobile
 -  Summary popup when time ends or test is completed early
 
-## 📸 Preview 
+##  Preview 
 ![Screenshot 2025-07-01 190146](https://github.com/user-attachments/assets/1c6872a7-8348-4d64-890c-e0132aa75526)
 
 
-## 🌗 Dark & Light Modes
+##  Dark & Light Modes
 
 Dark and light themes are toggleable from the top-left icon and are automatically saved for future sessions.
