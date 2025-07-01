@@ -12,7 +12,10 @@ A clean and responsive Typing Speed Test web app that helps users improve their 
 -  Responsive UI for desktop and mobile
 -  Summary popup when time ends or test is completed early
 
+
 ##  Preview 
+link : https://devanshuchandela.github.io/Typing-Speed/
+
 ![Screenshot 2025-07-01 190146](https://github.com/user-attachments/assets/1c6872a7-8348-4d64-890c-e0132aa75526)
 
 
